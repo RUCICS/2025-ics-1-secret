@@ -12,7 +12,7 @@
 |(%ebx)| 0x10 |
 |(%ebx,%eax)| 0x11 |
 |0x30(%ebx)| 0x13 |
-|80(%ebx,%eax,2)| 0x1A |
+|80(%ebx,%eax,2)| 0x17 |
 
 ## Answer1(2)
 
